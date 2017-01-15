@@ -19,7 +19,7 @@ TABLE OF CONTENTS
 
 
 
-                         				Implementation
+                         				   Implementation
   
                                                                                                                                           
 5 webpages saved as Index.html   CV.html   style.css    bio.html   contact.html 
@@ -70,7 +70,7 @@ file:///C:/Users/RMJ/Desktop/zip%20file%20for%20web/contact.html
 
 also to note, all images are copyright free and subject to understandibility.
 
-							Discussion
+							    Discussion
 
 
 
@@ -83,7 +83,7 @@ my bestfriend, Tonieka Haughton for staying up and putting up with me as I focus
 
 
 
-                                                            Time
+                                                               Time
 
 
 the actual amount of time involved in creating this project was between 15-20 hours, which was well divided through the term weeks as initally the web pages were
