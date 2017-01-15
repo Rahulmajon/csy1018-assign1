@@ -74,7 +74,7 @@ also to note, all images are copyright free and subject to understandibility.
 
 
 
-a great acknowledgement to my tutor, Liz Coulter-Smith who has been of great help with this project in helping understanding the core funcionalities of website development and 
+A great acknowledgement to my tutor, Liz Coulter-Smith who has been of great help with this project in helping understanding the core funcionalities of website development and 
 styling.
 also to my younger sibling, Yashna Sarah John who helped with the images involved and also bringing out the good and flaws in me so that i could format my personal history
 and interests.
@@ -86,5 +86,5 @@ my bestfriend, Tonieka Haughton for staying up and putting up with me as I focus
                                                                Time
 
 
-the actual amount of time involved in creating this project was between 15-20 hours, which was well divided through the term weeks as initally the web pages were
+The actual amount of time involved in creating this project was between 15-20 hours, which was well divided through the term weeks as initally the web pages were
 created and the the css page for styling was created alongside it.
